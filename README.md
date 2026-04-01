@@ -1,2 +1,2 @@
 # RBAtools-archive
-The RBAtools repository moved https://github.com/RBAgroup/rbatools
+The RBAtools repository moved to https://github.com/RBAgroup/rbatools
